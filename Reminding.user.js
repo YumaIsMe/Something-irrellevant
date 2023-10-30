@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Remove Adblock Thing
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  Removes Adblock Thing
 // @author       YumaIsMe
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    https://github.com/YumaIsMe/Something-irrellevant/raw/main/reminding.user.js
-// @downloadURL  https://github.com/YumaIsMe/Something-irrellevant/raw/main/reminding.user.js
+// @updateURL    https://github.com/YumaIsMe/Something-irrellevant/raw/main/Reminding.user.js
+// @downloadURL  https://github.com/YumaIsMe/Something-irrellevant/raw/main/Reminding.user.js
 // @grant        none
 // ==/UserScript==
 
