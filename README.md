@@ -1,7 +1,3 @@
-[🖥️] - Code was provided by https://github.com/TheRealJoelmatic/RemoveAdblockThing / https://github.com/TheRealJoelmatic
+- [🖥️] - Code was provided by [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
 
-
-CREDITS: TheRealJoelmatic
-
-
-
+**CREDITS:** [TheRealJoelmatic](https://github.com/TheRealJoelmatic)
