@@ -2,7 +2,7 @@
 
   **CREDITS:** [TheRealJoelmatic](https://github.com/TheRealJoelmatic)
 
-- This blocks youtube ads [YtYoutubeGIF](https://github.com/YumaIsMe/Something-irrellevant/assets/102835658/f40fce57-6d31-47e3-bc4a-c87f00ecd496)
-]
+- This blocks youtube ads ![YtYoutubeGIF (2)](https://github.com/YumaIsMe/Something-irrellevant/assets/102835658/3600e1a4-0380-4d4c-9b13-46a01c3c9ed1)
+
 ]
 
