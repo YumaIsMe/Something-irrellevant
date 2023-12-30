@@ -94,11 +94,13 @@
 
       if (ad) {
         const video = document.querySelector('video');
-        video.playbackRate = 10;
-        video.volume = 0;
-        video.currentTime = video.duration;
-        skipBtn?.click();
-      }
+        if (video && isFinite(video.duration)) {
+          video.playbackRate = 10;
+          video.volume = 0;
+          video.currentTime = Math.min(video.duration, video.currentTime + 1); // Setting currentTime to a value slightly less than the duration
+          skipBtn?.click();
+        }
+    }
 
       sidAd?.remove();
       displayAd?.remove();
